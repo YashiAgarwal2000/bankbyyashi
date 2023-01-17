@@ -39,7 +39,7 @@ CREATE TABLE `contactus` (
 --
 
 INSERT INTO `contactus` (`sr`, `name`, `email`, `message`) VALUES
-(13, 'Yashi Agarwal', 'Yashi.official404@g', 'What is the python course fee?'),
+(13, 'Yashi Agarwal', 'Yashi.official404@gmail.com', 'What is the python course fee?'),
 (14, 'Kittu', 'adef32795@gmail.com', 'This is a demo paregraph!'),
 (15, 'Diya', 'adef327095@gmail.com', 'This is a para!'),
 (16, '', '', ''),
@@ -100,16 +100,16 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`sr`, `name`, `email`, `accno`, `blc`) VALUES
-(3, 'Rohit Mahajan', 'rohit@gmail.com', '5353112532', 21100),
-(4, 'Kunal Mahajan', 'kunal@gmail.com', '7311780855', 10000),
-(5, 'Aenna P', 'aenna@gmail.com', '4001286186', 10010000),
-(6, 'Manoj Bajpayi', 'manoj@gmail.com', '1097481093', 16000),
-(7, 'Pankaj Tripathi', 'pankaj@gmail.com', '5859722581', 18200),
-(8, 'nawazuddin siddiqui', 'nawaz@gmail.com', '4920438199', 20000),
-(9, 'Prathmesh Pachpute', 'prathmesh@gmail.com', '9304807119', 16100),
-(10, 'Vikram Rathod', 'vikram@gmail.com', '1384625500', 10900),
-(11, 'Shrikant Tiwari', 'shrikant@gmail.com', '3917416800', 13900),
-(12, 'Ganesh Gaitonde', 'ganesh@gmail.com', '5002694111', 19000);
+(3, 'Yashi Agarwal', 'yashi@gmail.com', '5353112532', 21100),
+(4, 'Anshul Agarwal 'Anshul@gmail.com', '7311780855', 10000),
+(5, 'Sangeeta', 'Sangeeta@gmail.com', '4001286186', 10010000),
+(6, 'Murli', 'murli@gmail.com', '1097481093', 16000),
+(7, 'Kittu', 'kittu@gmail.com', '5859722581', 18200),
+(8, 'Bittu sharma', 'bittu@gmail.com', '4920438199', 20000),
+(9, 'Riya Mishra', 'riya@gmail.com', '9304807119', 16100),
+(10, 'Priya Gupta ', 'priya@gmail.com', '1384625500', 10900),
+(11, 'Vikas Kumar ', 'vikas@gmail.com', '3917416800', 13900),
+(12, 'Aatmaram Gaitonde', 'gaitonde@gmail.com', '5002694111', 19000);
 
 --
 -- Indexes for dumped tables
